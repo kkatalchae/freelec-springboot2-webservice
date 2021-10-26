@@ -27,3 +27,6 @@ nbdis/
 .settings
 .springBeans
 
+#
+application-oauth.properties
+
