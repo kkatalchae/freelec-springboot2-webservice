@@ -51,5 +51,8 @@ dependencies {
     // junit
     implementation 'junit:junit:4.13.1'
 
+    // spring-session-jdbc
+    implementation('org.springframework.session:spring-session-jdbc')
+
 }
 
