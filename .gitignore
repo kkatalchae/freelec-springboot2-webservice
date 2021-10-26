@@ -1,0 +1,29 @@
+# Project exclude paths
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/out
+scp.sh
+
+# intelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdis/
+.nb-gradle/
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
